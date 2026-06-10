@@ -33,7 +33,7 @@ Laboratorio-di-Simulazione-Numerica-LSN-
 * Lezione08: Monte Carlo Variazionale e Simulated Annealing
 * Lezione09: problema del commesso viaggiatore e algoritmo genetico
 * Lezione10: algoritmo genetico e tecniche di parallelizzazione
-* Lezione11: reti neurali
+* Lezione11: introduzione alle reti neurali
 * Lezione12: reti neurali profonde e reti neurali convoluzionali
 
 ## Compilazione ed esecuzione
